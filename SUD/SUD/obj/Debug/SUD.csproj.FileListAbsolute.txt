@@ -1,0 +1,15 @@
+H:\m\Current\SUD\SUD\bin\Debug\SUD.exe.config
+H:\m\Current\SUD\SUD\bin\Debug\SUD.exe
+H:\m\Current\SUD\SUD\bin\Debug\SUD.pdb
+H:\m\Current\SUD\SUD\obj\Debug\SUD.csprojAssemblyReference.cache
+H:\m\Current\SUD\SUD\obj\Debug\MainWindow.g.cs
+H:\m\Current\SUD\SUD\obj\Debug\App.g.cs
+H:\m\Current\SUD\SUD\obj\Debug\SUD_MarkupCompile.cache
+H:\m\Current\SUD\SUD\obj\Debug\SUD_MarkupCompile.lref
+H:\m\Current\SUD\SUD\obj\Debug\MainWindow.baml
+H:\m\Current\SUD\SUD\obj\Debug\SUD.g.resources
+H:\m\Current\SUD\SUD\obj\Debug\SUD.Properties.Resources.resources
+H:\m\Current\SUD\SUD\obj\Debug\SUD.csproj.GenerateResource.cache
+H:\m\Current\SUD\SUD\obj\Debug\SUD.csproj.CoreCompileInputs.cache
+H:\m\Current\SUD\SUD\obj\Debug\SUD.exe
+H:\m\Current\SUD\SUD\obj\Debug\SUD.pdb
